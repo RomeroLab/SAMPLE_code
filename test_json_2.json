@@ -1,0 +1,61 @@
+{
+  "parameters": {
+    "ptype": {
+      "value": "linear_assembly",
+      "inputs": {
+        "linear_assembly": {
+          "stoichiometry": {
+            "value": "equivolume",
+            "inputs": {
+              "equivolume": {
+                "volume": 5
+              }
+            }
+          },
+          "assemblies": [
+            {
+              "fragments": [
+                {
+                  "containerId": "ct1fqnp79uj332z",
+                  "wellIndex": 0
+                },
+                {
+                  "containerId": "ct1fqnp79uszey8",
+                  "wellIndex": 0
+                },
+                {
+                  "containerId": "ct1fqnp79v43zzg",
+                  "wellIndex": 0
+                },
+                {
+                  "containerId": "ct1fqnp79vd6m2r",
+                  "wellIndex": 0
+                }
+              ]
+            },
+            {
+              "fragments": [
+                {
+                  "containerId": "ct1fqnp79r6kv42",
+                  "wellIndex": 0
+                },
+                {
+                  "containerId": "ct1fqnp79rfpf5a",
+                  "wellIndex": 0
+                },
+                {
+                  "containerId": "ct1fqnp79rqmu2h",
+                  "wellIndex": 0
+                },
+                {
+                  "containerId": "ct1fqnp79rzqe3s",
+                  "wellIndex": 0
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+autoprotocol==7.1.1
+txappy==0.11.1
+transcriptic==9.1.0
+Bottleneck==1.2.1
+pandas>=1.0.5
+python-dateutil==2.7.5
+seaborn==0.9.0
+matplotlib==3.0.2
+--extra-index-url https://pypi.fury.io/K-VrhGRy2pT7NLFKyCPx/transcriptic
+
+
